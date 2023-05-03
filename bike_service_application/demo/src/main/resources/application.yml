@@ -10,7 +10,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
   mail:
     host: smtp.gmail.com
-    password: fbszkvgrwpspurxp
+    password: password 
     port: 587
     properties:
       mail:
@@ -18,7 +18,7 @@ spring:
           auth: true
           starttls:
             enable: true
-    username: aswin96777@gmail.com
+    username: emailid
 
 
 
